@@ -1,0 +1,9 @@
+* adp-plain
+
+Extension to the ADP project.
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/Hectarea1996/adp-plain.git |
+| commit  | 5c3ea99                                           |
+| systems | adp-plain                                         |
+|---------+---------------------------------------------------|
